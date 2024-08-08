@@ -1,3 +1,3 @@
-Django>=1.4
+Django>=4.2.15
 Sphinx
 sphinx_rtd_theme
